@@ -9,7 +9,7 @@ docker-compose --env-file .env up --build
 
 ## Stopping App Container with Volume Attached
 ```bash
-Ctrl + c
+docker-compose down
 ```
 ## Accessing the Application
 
